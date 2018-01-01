@@ -1,12 +1,12 @@
 //Datos de Conexion a Firebase
 var config = {
-    apiKey: "AIzaSyBqjAwBJtUOS8Rg_TTJESIX6hdYVp3Fg-U",
-    authDomain: "pruebashitcel.firebaseapp.com",
-    databaseURL: "https://pruebashitcel.firebaseio.com",
-    projectId: "pruebashitcel",
-    storageBucket: "pruebashitcel.appspot.com",
-    messagingSenderId: "755242969407"
-  };
+    apiKey: "APIKEY",
+    authDomain: "AUTHDOMAIN",
+    databaseURL: "DATABASE URL",
+    projectId: "PROJECT ID",
+    storageBucket: "STORAGE",
+    messagingSenderId: "SENDER ID"
+};
   //Inicializador de Firebase
   firebase.initializeApp(config);
 
