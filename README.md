@@ -1,7 +1,7 @@
 # Chat-Firebase
 Chat simple escrito en html y js con interacción a través de Firebase.
 
-## [DEMO](https://hitcel.com/chat/#) ##
+## [DEMO](https://goo.gl/1EKiVc) ##
 
 
 ![picture alt](https://image.ibb.co/iH76pw/chat.png "Ventana de Chat")
