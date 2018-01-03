@@ -3,6 +3,8 @@ Chat simple escrito en html y js con interacción a través de Firebase.
 
 ## [DEMO](https://goo.gl/1EKiVc) ##
 
+## [DONATE](https://www.paypal.me/carlos14624/) ##
+
 
 ![picture alt](https://image.ibb.co/iH76pw/chat.png "Ventana de Chat")
 
